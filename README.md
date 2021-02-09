@@ -1,6 +1,6 @@
 # 32Blit Boilerplate
 
-![Build](https://https://github.com/ThePythonator/32blit-boilerplate/workflows/Build/badge.svg)
+![Build](https://github.com/ThePythonator/32blit-boilerplate/workflows/Build/badge.svg)
 
 This is a basic template for starting 32blit projects. It shows the basic
 code layout and asset pipeline, hopefully giving folk a starting point for
