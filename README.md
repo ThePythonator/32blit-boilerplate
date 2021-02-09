@@ -6,9 +6,9 @@ This is a basic template for starting 32blit projects. It shows the basic
 code layout and asset pipeline, hopefully giving folk a starting point for
 any new projects.
 
-It's based on the original `template` project from the 
-[32Blit Beta](https://github.com/pimoroni/32blit-beta), with added asset
-handling, and some tidying up to fit in with how I do things.
+It's based on the original `boilerplate` project from the 
+[32Blit Beta](https://github.com/32blit/32blit-boilerplate), with added Emscripten builds.
+
 
 ## Usage
 
